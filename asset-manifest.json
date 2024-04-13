@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-file-uploadify-example/static/css/main.980713ee.chunk.css",
+    "main.js": "/react-file-uploadify-example/static/js/main.a5b6f7fe.chunk.js",
+    "main.js.map": "/react-file-uploadify-example/static/js/main.a5b6f7fe.chunk.js.map",
+    "runtime~main.js": "/react-file-uploadify-example/static/js/runtime~main.0f180a89.js",
+    "runtime~main.js.map": "/react-file-uploadify-example/static/js/runtime~main.0f180a89.js.map",
+    "static/css/2.c3a87cb8.chunk.css": "/react-file-uploadify-example/static/css/2.c3a87cb8.chunk.css",
+    "static/js/2.b6ff24dd.chunk.js": "/react-file-uploadify-example/static/js/2.b6ff24dd.chunk.js",
+    "static/js/2.b6ff24dd.chunk.js.map": "/react-file-uploadify-example/static/js/2.b6ff24dd.chunk.js.map",
+    "index.html": "/react-file-uploadify-example/index.html",
+    "precache-manifest.ca05f24006831a201756963228d6cfef.js": "/react-file-uploadify-example/precache-manifest.ca05f24006831a201756963228d6cfef.js",
+    "service-worker.js": "/react-file-uploadify-example/service-worker.js",
+    "static/css/2.c3a87cb8.chunk.css.map": "/react-file-uploadify-example/static/css/2.c3a87cb8.chunk.css.map",
+    "static/css/main.980713ee.chunk.css.map": "/react-file-uploadify-example/static/css/main.980713ee.chunk.css.map"
+  }
+}
